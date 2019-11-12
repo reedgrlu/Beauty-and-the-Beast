@@ -1,0 +1,127 @@
+body.page
+{
+	background-color: #FFEECC;
+}
+
+
+p{
+font-size: 1.2em;	
+font-family: "Georgia", serif;
+line-height:1.1em;
+}
+
+p.heading{
+	font-size: 2em;
+	font-family: "Caflisch Script Pro", cursive;
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+	
+}
+
+
+
+p#end{
+	
+	font-size: 500%;
+	font-weight:bold;
+	font-family: "Snell Roundhand", cursive;
+	
+}
+
+
+span.merchant
+{
+	color:blue;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+}
+
+span.beauty
+{
+	color:red;
+	font-family: "Courier New", Monospace;
+	font-weight: bold;
+}
+
+span.beast
+{
+	color:purple;
+	font-family: "Lucida Console", Monospace;
+	font-weight: bold;
+	
+}
+a#O
+{
+	font-size: 500%;
+	font-weight:bold;
+	font-family: "Snell Roundhand", cursive;
+	line-height: 0.7em;
+}
+
+
+h1.alignleft
+{
+	width: 30%;
+	display:inline;
+	float: left;
+}
+
+h1.alignright
+{
+	width: 30%;
+	display:inline;
+	float: right;
+	text-align: right;	
+}
+
+a
+{
+	text-decoration: none;
+}
+
+a:link
+{
+	color: black;
+}
+
+a:visited
+{
+	color: black;
+}
+
+div#list{
+	
+	padding-top: 0;
+	padding-left:40%;
+	list-style-position: inside;
+	font-size: 1.1em;
+	font-family: "Comic Sans MS", cursive;
+}
+
+figure{
+	float: right;
+}
+
+ol{
+	line-height: 3em;
+}
+
+p#post_body{
+	font-size: 1em;
+	
+	margin-top: 1%;
+	margin-right:1%;
+	margin-bottom: 1%;
+	margin-left: 1%;
+}
+
+button{
+	font-size: 0.8em;
+}
+
+img{
+	border-width: 0.6em;
+	border-style: solid;
+	color: black;
+}
